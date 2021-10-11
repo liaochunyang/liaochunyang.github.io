@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-=====
+For more details, please check author's <a href="https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>.
 
-Preprints
-=====
+## Publications ##
+
+## Preprints ##
 1. Learning from Non-Random Data in Hilbert Spaces: An Optimal Recovery Perspective, submitted  (with S.Foucart,  S.Shahrampour and Y. Wang). <a href="https://arxiv.org/abs/2006.03706" target="_blank">[arXiv]</a> <a href="https://github.com/liaochunyang/Learning-from-Non-Random-Data-in-Hilbert-Spaces-An-Optimal-Recovery-Perspective" target="_blank">[Code]</a>.
