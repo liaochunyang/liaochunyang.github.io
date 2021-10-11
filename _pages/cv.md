@@ -22,7 +22,6 @@ Research Interests
 Publications
 =====
 Preprints
-===
 1. Learning from Non-Random Data in Hilbert Spaces: An Optimal Recovery Perspective.
 ( With S. Foucart, S. Shahrampour, and Y. Wang).
   
