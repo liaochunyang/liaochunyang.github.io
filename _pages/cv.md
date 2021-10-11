@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-The completed version of my CV is [here](liaochunyang.github.io/cv.pdf).
+The completed version of my CV is [here](cv.pdf).
 
 Education
 =====
