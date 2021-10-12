@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chunyang Liao's Webpage"
+title: "Chunyang Liao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+liaochunyang@tamu.edu
 
 Short bio
 =====
 
-I am currently a fourth-year graduate student in the Department of Mathematics at Texas A&M University under the supervision of Dr.Simon Foucart. My research interests are approximation theory, mathematical data science, optimization, (deep) learning theory and in particular their intersections. I received my M.S. in mathematics at Texas A&M university as well and B.S. in mathematics at Dalian Maritime University. Currently, I am working on optimal recovery which is a subfield of Approximation Theory. The complete pdf version of my cv is here.
+I am currently a fourth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics at Texas A&M University</a> under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. My research interests are approximation theory, mathematical data science, optimization, (deep) learning theory and in particular their intersections. Currently, I am working on optimal recovery which is a subfield of Approximation Theory. The main goal is designing tractable algorithms to recover/learn a function with non-random, even unfavorable observations.
+
+Before the current position at Texas A&M Univeristy, I was a master student at the Department of Mathematics, Texas A&M University as well. I received my B.S. degree in Applied Mathematics at Dalian Maritime University.
 
 This page was last updated on Aug 20, 2021.
 
