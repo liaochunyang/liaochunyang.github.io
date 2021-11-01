@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chunyang Liao"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : 
   location         : "College Station, Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chunyang-liao-75225b137/"
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0001-8359-1747"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
