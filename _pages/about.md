@@ -15,7 +15,7 @@ Short bio
 
 I am currently a fourth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics at Texas A&M University</a>, working under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. My research interests are mathematical data science, approximation theory, optimization, (deep) learning theory and in particular their intersections. Currently, I am working on optimal recovery which is a subfield of Approximation Theory. The main goal is designing tractable algorithms to recover/learn a function with non-random, even unfavorable observations. Please look at my research page for more details. 
 
-This page was last updated on Nov 17, 2021.
+I'm looking for both a postdoc position starting 2022 Fall or later. Please feel free to contact me. 
 
 Contact Info
 =====
