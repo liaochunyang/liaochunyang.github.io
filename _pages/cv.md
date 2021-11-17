@@ -12,13 +12,13 @@ The completed version of my CV is <a href="https://github.com/liaochunyang/liaoc
 
 Education
 =====
-* B.S. in Applied Mathematics, Dalian Maritime University, 2012 - 2016
-* M.S. in Mathematics, Texas A&M University, 2016 - 2018
 * Ph.D in Mathematics, Texas A&M University, 2018 - 2023 (expected)
+* M.S. in Mathematics, Texas A&M University, 2016 - 2018
+* B.S. in Applied Mathematics, Dalian Maritime University, 2012 - 2016
 
 Research Interests
 =====
-* Approximation Theory, Mathematical Data Science, Optimization, (Deep) Learning Theory
+* Mathematical Data Science, Approximation Theory, Optimization, (Deep) Learning Theory
 
 Publications
 =====
