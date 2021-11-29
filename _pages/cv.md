@@ -16,10 +16,6 @@ Education
 * M.S. in Mathematics, Texas A&M University, 2016 - 2018
 * B.S. in Applied Mathematics, Dalian Maritime University, 2012 - 2016
 
-Research Interests
-=====
-* Mathematical Data Science, Approximation Theory, Optimization, (Deep) Learning Theory
-
 Publications
 =====
 Preprints
