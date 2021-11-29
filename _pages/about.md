@@ -12,14 +12,20 @@ liaochunyang@tamu.edu
 
 Short bio
 =====
+I am a fourth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics</a> at Texas A&M University, working under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. My research interests are mathematical data science, approximation theory, optimization, (deep) learning theory and in particular their intersections. 
 
-I am currently a fourth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics at Texas A&M University</a>, working under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. My research interests are mathematical data science, approximation theory, optimization, (deep) learning theory and in particular their intersections. Currently, I am working on optimal recovery which is a subfield of Approximation Theory. The main goal is designing tractable algorithms to recover/learn a function with non-random, even unfavorable observations. Please look at my research page for more details. 
+Currently, I am working on optimal recovery which is a subfield of Approximation Theory. The main goal is designing tractable algorithms to recover/learn an unknown function with non-random, even unfavorable observations. Please see my research page for more details. 
 
-I'm looking for both a postdoc position starting 2022 Fall or later. Please feel free to contact me. 
+Research Interest
+=====
+* Mathematical Data Science
+* Approximation Theory
+* Optimization
+* (Deep) Learning Theory
 
 Contact Info
 =====
-* Address: Blocker 505E, Department of Mathematics, 155 Ireland street,  college station, TX, 77843
+* Address: Blocker 505E, Department of Mathematics, 155 Ireland street, College Station, TX, 77843
 * Email: liaochunyang@tamu.edu
 * Office Hours:  By Appointment
 * Personal zoom link: [Zoom Link](https://tamu.zoom.us/j/5522902045?pwd=Mi8vdEE0WGt0SGRLZ1dZZC9kU3dnQT09)
