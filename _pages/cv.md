@@ -20,6 +20,7 @@ Publications
 =====
 Journal Publications
 1. Learning from Non-Random Data in Hilbert Spaces: An Optimal Recovery Perspective, (with S. Foucart, S. Shahrampour, and Y. Wang)
+
 Sampling Theory, Signal Processing, and Data Analysis. Accepted.
 
 Preprints
