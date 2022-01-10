@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-The completed version of my CV is <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">CV.pdf</a>.
+The completed version of my CV is [here]("https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf").
+
 
 Education
 =====
@@ -28,6 +29,7 @@ Preprints
 Teaching
 ======
 Texas A&M University (2018 - ):
+* Lab Instructor, Topics in Mathematical Data Science (Spring 2022)
 * Instructor of Record, Mathematics for Business and Social Sciences (Fall 2021)
 * Teaching Assistant, Engineering Mathematics II (Spring 2021, Fall 2019)
 * Teaching Assistant, Numerical Analysis (Fall 2020)
