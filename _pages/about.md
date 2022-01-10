@@ -14,9 +14,9 @@ Short bio
 =====
 I am a fourth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics</a> at Texas A&M University, working under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. My research interests are mathematical data science, approximation theory, optimization, (deep) learning theory and in particular their intersections. 
 
-Currently, I am working on optimal recovery which is a subfield of Approximation Theory. The goal of optimal recovery is to recover a function known to belong to a certain class from exact or noisy prescribed data. This task is solved deterministically by adopting a worst-case perspective. I am trying to design tractable algorithms to return a best approximant of the unknown function, which minimizes the worst-case error. Some relevant work with reproducible files can be found [here](https://github.com/liaochunyang/COR).
+Currently, I am working on optimal recovery which is a subfield of Approximation Theory. The goal of optimal recovery is to recover a function known to belong to a certain class from exact or noisy prescribed data. This task is solved deterministically by adopting a worst-case perspective. My goal is to design tractable algorithms to return the optimal recovery map. Some recent work with reproducible files can be found [here](https://github.com/liaochunyang/Optimal_Recovery).
 
-I am looking for postdoc position now. Here is my [research statement](https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/Research_Statement.pdf)
+I am looking for postdoc position. Here is my [research statement](https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/Research_Statement.pdf).
 
 Research Interest
 =====
