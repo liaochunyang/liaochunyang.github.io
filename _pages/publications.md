@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For more details, please check author's <a href="https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>.
+For more details, please check author's <a href="https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl" target="_blank">Google Scholar</a>.
 
 ## Publications ##
 
