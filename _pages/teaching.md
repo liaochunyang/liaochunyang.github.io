@@ -7,7 +7,7 @@ author_profile: true
 
 ## Current Teaching (Spring 2022) ##
 
-Math 664, Topics in Mathematical Data Science, Lab Instructor. [Webapge](/_teaching/S2022_DS/S2022_DS664.md)
+Math 664, Topics in Mathematical Data Science, Lab Instructor. [Webapge](S2022_DS664.md)
 ## Previous Teaching ##
 
 Instructor of Record:
