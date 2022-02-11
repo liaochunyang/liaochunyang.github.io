@@ -7,7 +7,7 @@ author_profile: true
 
 ## Current Teaching (Spring 2022) ##
 
-Math 664, Topics in Mathematical Data Science, Lab Instructor. [Webapge](S2022_DS664.md)
+Math 664, Topics in Mathematical Data Science, Lab Instructor. [Webapge](https://github.com/liaochunyang/liaochunyang.github.io/blob/0dabea2c8c5929af7358d57ab0007bc2af7015a3/_teaching/S2022_DS/S2022_DS664.md)
 
 ## Previous Teaching ##
 
