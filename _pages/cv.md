@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "CV"
-{: reversed="reversed"}
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,6 +19,8 @@ Education
 Publications
 =====
 Journal Publications
+
+{: reversed="reversed"}
 
 2. Optimal Recovery from Inaccurate Data in Hilbert Spaces: Regularize, but what of the Parameter?, submitted  (with S.Foucart).
 
