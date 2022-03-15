@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{: reversed="reversed"}
 
 {% include base_path %}
 The completed version of my CV is <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">CV.pdf</a>.
