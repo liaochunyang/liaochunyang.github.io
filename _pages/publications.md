@@ -15,6 +15,5 @@ For more details, please check author's <a href="https://scholar.google.com/cita
 1. Learning from Non-Random Data in Hilbert Spaces: An Optimal Recovery Perspective <a href="https://arxiv.org/abs/2006.03706" target="_blank">[arXiv]</a> <a href="https://github.com/liaochunyang/Learning-from-Non-Random-Data-in-Hilbert-Spaces-An-Optimal-Recovery-Perspective" target="_blank">[Code]</a> <br/>
 Sampling Theory, Signal Processing and Data Analysis. Accepted. With S.Foucart, S.Shahrampour and Y. Wang. 
 
-<!--### Preprints ###-->
 
 
