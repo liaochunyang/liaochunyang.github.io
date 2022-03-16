@@ -14,7 +14,7 @@ About Me
 =====
 I am a fourth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics</a> at Texas A&M University, working under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. My research interests are mathematical data science, approximation theory, optimization, (deep) learning theory and in particular their intersections. 
 
-You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. I am looking for a postdoc position. Here is my [research statement](https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/Research_Statement.pdf).
+You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. 
 
 Education
 =====
