@@ -12,7 +12,9 @@ liaochunyang@tamu.edu
 
 About Me
 =====
-I am a fourth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics</a> at Texas A&M University, working under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. My research interests are mathematical data science, approximation theory, optimization, (deep) learning theory and in particular their intersections. 
+I am a fourth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics</a> at Texas A&M University, working under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. 
+
+My research interests are mathematical data science, approximation theory, optimization, (deep) learning theory and in particular their intersections. Currently, I am working on optimal recovery, which is a subfield of Approximation Theory.
 
 You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. 
 
