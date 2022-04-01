@@ -37,5 +37,3 @@ Contact Info
 * Email: liaochunyang@tamu.edu
 * Office Hours:  By Appointment
 * Personal zoom link: [Zoom Link](https://tamu.zoom.us/j/5522902045?pwd=Mi8vdEE0WGt0SGRLZ1dZZC9kU3dnQT09)
-
-<a href="https://clustrmaps.com/site/1bl7w"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=LF-_ZjqyLdfXkTmKU8n0n42IzSBzQ9NI3NDoxftxntM&cl=ffffff" width="300" height="400" /></a>
