@@ -5,9 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching (Spring 2022) ##
+## Current Teaching (Summer 2022) ##
 
-Math 664, Topics in Mathematical Data Science, Lab Instructor. [Webapge](S2022_DS664.md)
 ## Previous Teaching ##
 
 Instructor of Record:
@@ -16,6 +15,7 @@ Instructor of Record:
 Teaching Assistant:
 * Math 609,  Numerical Analysis, Fall 2020. 
 * MATH 152, Engineering Mathematics II, Fall 2019, Spring 2021.
+* Math 664, Topics in Mathematical Data Science, Spring 2022. [Webapge](S2022_DS664.md)
 
 Grader:
 * MATH 152, Engineering Mathematics II, Summer 2019
