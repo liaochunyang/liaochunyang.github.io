@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Current Teaching (Summer 2022) ##
+* Qualifying Exam Preparation course (Applied Mathematics). [Past Qual](https://www.math.tamu.edu/graduate/phd/quals.html) [Solutions](https://github.com/liaochunyang/liaochunyang.github.io/tree/gh-pages/_teaching/Applied_Qual)
 
 ## Previous Teaching ##
 
