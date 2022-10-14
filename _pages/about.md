@@ -30,7 +30,6 @@ Research Interest
 =====
 * Mathematical Data Science
 * Approximation Theory
-* Optimization
 * (Deep) Learning Theory
 
 Contact Info
