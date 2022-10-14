@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests are Mathematical Data Science, Approximation Theory, Optimization and (Deep) Learning Theory.
+My research interests belong to Mathematics of Data Science, Approximation Theory, (Deep) Learning Theory, and in particular their intersections.
 
 ## Optimal Recovery ##
 
-Currently, I am working on Optimal Recovery which is a subfield of Approximation Theory. The goal of Optimal Recovery is to recover a function (a quantity depending on a function) known to belong to a certain class from prescribed data. This task is solved deterministically by adopting a worst-case perspective. My goal is to design tractable algorithms that returns the optimal approximant minimizing the worst-case error. Some recent papers with reproducible files can be found [here](https://github.com/liaochunyang/Optimal_Recovery). 
+Currently, I am working on Optimal Recovery which is a subfield of Approximation Theory. I am working on Optimal Recovery, whose main task is to approximate a function from observations by adopting a worst-case error perspective tied to an explicit model assumption made on the function to be recovered. My goal is to design tractable algorithms that returns the optimal approximant minimizing the worst-case error. Some recent papers with reproducible files can be found [here](https://github.com/liaochunyang/Optimal_Recovery). 
