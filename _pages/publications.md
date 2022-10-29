@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author profiles on <a href="https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl" target="_blank">Google Scholar</a> and <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1502929" target="_blank">MathSciNet</a>
+Author profiles on <a href="https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl" target="_blank">Google Scholar</a> and <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1502929" target="_blank">MathSciNet</a>.
 
 ## Journal Publications ##
 1. **Optimal Recovery from Inaccurate Data in Hilbert Spaces: Regularize, but what of the Parameter?** <br/> 
