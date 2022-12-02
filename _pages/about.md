@@ -12,7 +12,8 @@ liaochunyang@tamu.edu
 
 About Me
 =====
-I am a fifth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics</a> at Texas A&M University, working under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. 
+I am a fifth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics</a> at Texas A&M University, working under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. I am a student member of <a href="https://sites.google.com/tamu.edu/camda" target="_blank">the Center for Approximation and Mathematical Data Analytics (CAMDA)</a> and of <a href="https://fids.tamu.edu" target="_blank">Texas A&M TRIPODS Research Institute for Foundations of Interdisciplinary Data Science (FIDS)</a>.
+
 
 My research interests are Mathematical Data Science, Approximation Theory, (Deep) Learning Theory, and in particular their intersections. Currently, I am working on Optimal Recovery, which is a subfield of Approximation Theory. Please see my [research page](research.md) for more details.
 
