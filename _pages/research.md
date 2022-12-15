@@ -9,13 +9,14 @@ My research interests belong to Mathematics of Data Science, Approximation Theor
 
 ## Optimal Recovery ##
 
-Optimal Recovery, whose main task is to approximate an unknown function from observations and an explicit model assumption on the function to be recovered, is a subfield of Approximation Theory. The problem is considered under deterministic problem setting where we assume the observational error is bounded not random. To assess the performance, we adopt worst-case error perspective which is key to optimal recovery. 
+Optimal Recovery (OR), whose main task is to approximate an unknown function from observations and an explicit model assumption on the function to be recovered, is a subfield of Approximation Theory. The problem is considered under deterministic problem setting where we assume function inputs are fixed quantities (even unfavorable) and observational errors are bounded not random. To assess the performance, we adopt worst-case error perspective which is key to Optimal Recovery. 
 
-We observed that the optimal recovery framework has a closed relation to Learning Theory, Numerical Analysis (Quadrature Rule), Gaussian Process and Estimation Theory. It has been used to explain many practical problems, but the development slowed down due to the lack of computational advantages.
+We observed that the optimal recovery framework has a closed relation to Learning Theory, Numerical Analysis (Quadrature Rule), Gaussian Process Regression and Estimation Theory. It has been used to explain many practical problems, but the development of OR slowed down due to the lack of computational advantages.
 
-**The goal of my research is to make optimal recovery more computational-embracing.** Specifically, I plan to
+**The goal of my research is to make Optimal Recovery more computational-embracing.** Specifically, I plan to
 * design tractable algorithms that return an optimal approximater in the sense that the worst-case error is minimized
-* compute worst-case error for any recovery map
+* compute the worst-case error for any recovery map
 * incorporate computation advantages, such as dealing with stream data
+* explore real world applications
  
 Some recent papers with reproducible files can be found [here](https://github.com/liaochunyang/Optimal_Recovery). 
