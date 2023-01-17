@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Current Teaching (Spring 2023) ##
-TBA
+No teaching, I will serve as grader for [Math 677-700 Mathematical foundations for data science](https://www.math.tamu.edu/~kuchment/MATH%20677%20Syllabus.pdf).
 
 ## Previous Teaching ##
 
@@ -23,6 +23,7 @@ Grader:
 * Math 152, Engineering Mathematics II, Summer 2019
 * Math 401, Advanced Engineering Mathematics, Spring 2019
 * Math 602, Methods and Applications of Partial Differential Equations, Fall 2018
+* Math 677, Mathematical Foundations for Data Science, Fall 2022
 
 ## Notes ##
 
