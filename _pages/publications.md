@@ -7,6 +7,10 @@ author_profile: true
 
 Author profiles on <a href="https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl" target="_blank">Google Scholar</a> and <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1502929" target="_blank">MathSciNet</a>.
 
+## Preprints ##
+1. **On the Optimal Recovery of Graph Signals** <br/>
+With S.Foucart and N.Veldt, Submitted, 2023. <a href="https://arxiv.org/abs/2304.00474" target="_blank">(arXiv)</a> <a href="https://github.com/liaochunyang/ORofGraphSignals" target="_blank">(code)</a>
+
 ## Journal Publications ##
 1. **Optimal Recovery from Inaccurate Data in Hilbert Spaces: Regularize, but what of the Parameter?** <br/> 
 With S.Foucart, Constructive Approximation, 2022. <a href="https://link.springer.com/article/10.1007/s00365-022-09590-5" target="_blank">(doi)</a> <a href="https://arxiv.org/abs/2111.02601" target="_blank">(arXiv)</a> <a href="https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/ORHilbert_Reg_repro.html" target="_blank">(code)</a>
