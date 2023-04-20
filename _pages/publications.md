@@ -20,5 +20,5 @@ With S.Foucart, S.Shahrampour and Y. Wang, Sampling Theory, Signal Processing an
 
 ## Refereed Proceedings Papers ##
 1. **A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks** <br/>
-With Mingrui Liu, Zhenxun Zhuang, and Yunwen Lei. To appear in Advances in Neural Information Processing Systems 33, 2022. (NeurIPS 2022) <a href="https://arxiv.org/pdf/2205.05040.pdf" target="_blank">(arXiv)</a>
+With Mingrui Liu, Zhenxun Zhuang, and Yunwen Lei. In Neural Information Processing Systems 35, 2022. (NeurIPS 2022) <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/a7fa0a0d6b4bb14c659b9921e8e4a772-Abstract-Conference.html" target="_blank">(Proceeding)</a> <a href="https://arxiv.org/pdf/2205.05040.pdf" target="_blank">(arXiv)</a>
 
