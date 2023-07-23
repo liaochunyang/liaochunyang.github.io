@@ -8,36 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-liaochunyang@tamu.edu
+liaochunyang@math.ucla.edu
 
 About Me
 =====
-I am a fifth-year graduate student in the <a href="https://www.math.tamu.edu" target="_blank">Department of Mathematics</a> at Texas A&M University, working under the supervision of <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Dr.Simon Foucart</a>. I am a student member of <a href="https://sites.google.com/tamu.edu/camda" target="_blank">the Center for Approximation and Mathematical Data Analytics (CAMDA)</a> and of <a href="https://fids.tamu.edu" target="_blank">Texas A&M TRIPODS Research Institute for Foundations of Interdisciplinary Data Science (FIDS)</a>.
+I am a Hedrick Assistant Adjunct Professor at UCLA Math Department working with Professors <a href="https://www.math.ucla.edu/~deanna/" target="_blank">Deanna Needell</a> and <a href="https://www.math.ucla.edu/people/ladder/hayden" target="_blank">Hayden Schaeffer</a>. I was a graduate student in the Department of Mathematics at Texas A&M University advised by Professor <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Simon Foucart</a>. 
 
-
-My research interests are Mathematical Data Science, Approximation Theory, (Deep) Learning Theory, and in particular their intersections. Currently, I am working on Optimal Recovery, which is a subfield of Approximation Theory. Please see my [research page](research.md) for more details.
-
-I intend to graduate in May 2023. Now, I am in the job market for a postdoctoral position starting from Fall 2023. 
+# I was a student member of <a href="https://sites.google.com/tamu.edu/camda" target="_blank">the Center for Approximation and Mathematical Data Analytics (CAMDA)</a> and of <a href="https://fids.tamu.edu" target="_blank">Texas A&M TRIPODS Research Institute for Foundations of Interdisciplinary Data Science (FIDS)</a>.
+My research interests are Mathematics of Data Science, Approximation Theory, (Deep) Learning Theory, and in particular their intersections. 
+# Currently, I am working on Optimal Recovery, which is a subfield of Approximation Theory. Please see my [research page](research.md) for more details. 
 
 You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. 
 
 Education
 =====
-* Ph.D in Mathematics, Texas A&M University, 2018 - 2023 (expected)
+* Ph.D in Mathematics, Texas A&M University, 2018 - 2023
 * M.S. in Mathematics, Texas A&M University, 2016 - 2018
 * B.S. in Applied Mathematics, Dalian Maritime University, 2012 - 2016
 
 Research Interest
 =====
-* Mathematical Data Science
+* Mathematics of Data Science
 * Approximation Theory
 * (Deep) Learning Theory
 
 Contact Info
 =====
-* Address: Blocker 505E, Department of Mathematics, 155 Ireland street, College Station, TX, 77843
-* Email: liaochunyang@tamu.edu
+* Address: Mathematical Sciences Building, 520 Portola Plaza, Los Angeles, CA 90095
+* Email: liaochunyang@math.ucla.edu
 * Office Hours:  By Appointment
-* Personal zoom link: [Zoom Link](https://tamu.zoom.us/j/5522902045?pwd=Mi8vdEE0WGt0SGRLZ1dZZC9kU3dnQT09)
 
 <a href="https://clustrmaps.com/site/1bl7w"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=LF-_ZjqyLdfXkTmKU8n0n42IzSBzQ9NI3NDoxftxntM&cl=ffffff" /></a>
