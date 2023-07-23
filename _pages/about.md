@@ -14,9 +14,7 @@ About Me
 =====
 I am a Hedrick Assistant Adjunct Professor at UCLA Math Department working with Professors <a href="https://www.math.ucla.edu/~deanna/" target="_blank">Deanna Needell</a> and <a href="https://www.math.ucla.edu/people/ladder/hayden" target="_blank">Hayden Schaeffer</a>. I was a graduate student in the Department of Mathematics at Texas A&M University advised by Professor <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Simon Foucart</a>. 
 
-# I was a student member of <a href="https://sites.google.com/tamu.edu/camda" target="_blank">the Center for Approximation and Mathematical Data Analytics (CAMDA)</a> and of <a href="https://fids.tamu.edu" target="_blank">Texas A&M TRIPODS Research Institute for Foundations of Interdisciplinary Data Science (FIDS)</a>.
 My research interests are Mathematics of Data Science, Approximation Theory, (Deep) Learning Theory, and in particular their intersections. 
-# Currently, I am working on Optimal Recovery, which is a subfield of Approximation Theory. Please see my [research page](research.md) for more details. 
 
 You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. 
 
