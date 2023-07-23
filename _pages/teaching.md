@@ -5,15 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching (Spring 2023) ##
-No teaching, I will serve as grader for [Math 677-700 Mathematical foundations for data science](https://www.math.tamu.edu/~kuchment/MATH%20677%20Syllabus.pdf).
+## Current Teaching (Fall 2023) ##
+TBA
 
 ## Previous Teaching ##
 
-Instructor of Record:
-* Math 140, Mathematics for Business and Social Sciences, Fall 2021.
+* Math 140, Mathematics for Business and Social Sciences, Fall 2021, TAMU.
 
-Teaching Assistant:
+<!---Teaching Assistant:
 * Math 609,  Numerical Analysis, Fall 2020. 
 * Math 152, Engineering Mathematics II, Fall 2019, Spring 2021.
 * Math 664, Topics in Mathematical Data Science, Spring 2022. [Webapge](S2022_DS664.md)
@@ -23,7 +22,7 @@ Grader:
 * Math 152, Engineering Mathematics II, Summer 2019
 * Math 401, Advanced Engineering Mathematics, Spring 2019
 * Math 602, Methods and Applications of Partial Differential Equations, Fall 2018
-* Math 677, Mathematical Foundations for Data Science, Fall 2022
+* Math 677, Mathematical Foundations for Data Science, Fall 2022, Spring 2023--->
 
 ## Notes ##
 
