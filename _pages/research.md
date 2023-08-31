@@ -5,18 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests belong to Mathematics of Data Science, Approximation Theory, (Deep) Learning Theory, and in particular their intersections.
+My research interests are Mathematics of Data Science, Approximation Theory, (Deep) Learning Theory, and in particular their intersections.
 
 ## Optimal Recovery ##
 
-Optimal Recovery (OR), whose main task is to approximate an unknown function from observations and an explicit model assumption on the function to be recovered, is a subfield of Approximation Theory. The problem is considered under deterministic problem setting where we assume function inputs are fixed quantities (even unfavorable) and observational errors are bounded not random. To assess the performance, we adopt worst-case error perspective which is key to Optimal Recovery. 
+Optimal Recovery (OR), which is a subfield of Approximation Theory, can be viewed as a nonstatistical learning Theory. The main task is to approximate an unknown function from observations and an explicit model assumption on the function to be recovered. The problem is considered under deterministic problem setting where we assume function inputs are fixed quantities (even unfavorable) and observational errors are bounded not random. To assess the performance, we adopt worst-case error perspective which is key to Optimal Recovery. 
 
-We observed that the optimal recovery framework has a closed relation to Learning Theory, Numerical Analysis (Quadrature Rule), Gaussian Process Regression and Estimation Theory. It has been used to explain many practical problems, but the development of OR slowed down due to the lack of computational advantages.
+We observed that the optimal recovery framework has a closed relation to Learning Theory, Numerical Analysis (Quadrature Rule), Gaussian Process Regression and Estimation Theory. It has been used to explain many practical problems, but the development of optimal recovery slowed down due to the lack of computational advantages.
 
-**The goal of my research is to make Optimal Recovery more computational-embracing.** Specifically, I plan to
-* design tractable algorithms that return an optimal approximater in the sense that the worst-case error is minimized
-* compute the worst-case error for any recovery map
-* incorporate computation advantages, such as dealing with stream data
-* explore real world applications
- 
-Some recent papers with reproducible files can be found [here](https://github.com/liaochunyang/Optimal_Recovery). 
+**The goal of my research is to make optimal recovery more computational-embracing.** Some recent papers with reproducible files can be found [here](https://github.com/liaochunyang/Optimal_Recovery). 
