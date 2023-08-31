@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Current Teaching (Fall 2023) ##
-* Math 16A, Python with Applications I. ([Course Website](PIC16A.md))
+* Math 16A, Python with Applications I, section 1 and 2. ([Course Website](PIC16A.md))
 
 ## Previous Teaching ##
 
