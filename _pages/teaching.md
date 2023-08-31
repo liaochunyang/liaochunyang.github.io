@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ## Current Teaching (Fall 2023) ##
-TBA
+* Math 16A, Python with Applications I.[Course Website](PIC16A.md)
 
 ## Previous Teaching ##
 
-* Math 140, Mathematics for Business and Social Sciences, Fall 2021, TAMU.
+**At Texas A&M:**
+* Fall 2021, Math 140, Mathematics for Business and Social Sciences.
 
 <!---Teaching Assistant:
 * Math 609,  Numerical Analysis, Fall 2020. 
