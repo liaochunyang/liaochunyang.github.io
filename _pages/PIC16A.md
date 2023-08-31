@@ -4,7 +4,7 @@ title: "Math16A -- Python with Applications"
 
 ---
 
-More information will be available before the Fall semester starts.
+**More information will be available before the Fall semester starts.**
 
 ## Information ##
 
