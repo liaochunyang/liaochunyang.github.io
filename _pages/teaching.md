@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Current Teaching (Fall 2023) ##
-* Math 16A, Python with Applications I, section 1 and 2. ([Course Website](PIC16A.md))
+* Math 16A, Python with Applications I, section 1 and 2.
 
 ## Previous Teaching ##
 
@@ -14,7 +14,7 @@ author_profile: true
 * Instructor, Math 140, Mathematics for Business and Social Sciences, Fall 2021.
 * TA, Math 609,  Numerical Analysis, Fall 2020. 
 * TA, Math 152, Engineering Mathematics II, Fall 2019, Spring 2021.
-* TA, Math 664, Topics in Mathematical Data Science, Spring 2022. [Webapge](S2022_DS664.md)
+* TA, Math 664, Topics in Mathematical Data Science, Spring 2022.
 * TA, Qualifying Exam Preparation course (Applied Mathematics), Summer 2022.
 <!---[Past Qual Problem Set](https://www.math.tamu.edu/graduate/phd/quals.html) and my handwritten [Solutions](https://github.com/liaochunyang/liaochunyang.github.io/tree/gh-pages/_teaching/Applied_Qual)--->
 
