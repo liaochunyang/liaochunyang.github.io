@@ -8,6 +8,8 @@ author_profile: true
 Author profiles on <a href="https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl" target="_blank">Google Scholar</a> and <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1502929" target="_blank">MathSciNet</a>.
 
 ## Preprints ##
+1. **S-Procedure Relaxation: a Case of Exactness Involving Chebyshev Centers** <br/>
+With S.Foucart. <a href="https://arxiv.org/abs/2310.09677" target="_blank">(arXiv)</a>
 
 ## Journal Publications ##
 1. **Optimal Recovery from Inaccurate Data in Hilbert Spaces: Regularize, but what of the Parameter?** <br/> 
