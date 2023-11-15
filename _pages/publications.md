@@ -9,7 +9,7 @@ Author profiles on <a href="https://scholar.google.com/citations?user=eAPnyCsAAA
 
 ## Preprints ##
 1. **S-Procedure Relaxation: a Case of Exactness Involving Chebyshev Centers** <br/>
-With S.Foucart. <a href="https://arxiv.org/abs/2310.09677" target="_blank">(arXiv)</a>
+With S.Foucart. Submitted. <a href="https://arxiv.org/abs/2310.09677" target="_blank">(arXiv)</a>
 
 ## Journal Publications ##
 1. **Optimal Recovery from Inaccurate Data in Hilbert Spaces: Regularize, but what of the Parameter?** <br/> 
@@ -20,7 +20,7 @@ With S.Foucart, S.Shahrampour and Y. Wang, Sampling Theory, Signal Processing an
 
 ## Refereed Proceedings Papers ##
 1. **On the Optimal Recovery of Graph Signals** <br/>
-With S.Foucart and N.Veldt. Accepted by SampTA 2023. <a href="https://arxiv.org/abs/2304.00474" target="_blank">(arXiv)</a> <a href="https://github.com/liaochunyang/ORofGraphSignals" target="_blank">(code)</a>
+With S.Foucart and N.Veldt. In Proceedings of SampTA 2023, New Haven. <a href="https://ieeexplore.ieee.org/document/10301205" target="_blank">(doi)</a> <a href="https://arxiv.org/abs/2304.00474" target="_blank">(arXiv)</a> <a href="https://github.com/liaochunyang/ORofGraphSignals" target="_blank">(code)</a>
 
 2. **A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks** <br/>
 With Mingrui Liu, Zhenxun Zhuang, and Yunwen Lei. In Neural Information Processing Systems 35, 2022. (NeurIPS 2022) <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/a7fa0a0d6b4bb14c659b9921e8e4a772-Abstract-Conference.html" target="_blank">(Proceeding)</a> <a href="https://arxiv.org/pdf/2205.05040.pdf" target="_blank">(arXiv)</a>
