@@ -36,4 +36,4 @@ Contact Info
 * Email: liaochunyang@math.ucla.edu
 * Office Hours:  By Appointment
 
-<a href="https://clustrmaps.com/site/1bl7w"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=LF-_ZjqyLdfXkTmKU8n0n42IzSBzQ9NI3NDoxftxntM&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1c0an"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=42ks8lPQe8lWKinLd_OW-aIB6IttaYo-ShJDlgxwOhA&cl=ffffff" /></a>
