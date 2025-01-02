@@ -5,14 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching (Spring 2024) ##
-* PIC 16B, Python with Applications II
+## Current Teaching (Winter 2025) ##
+* PIC 16A, Python with Applications I
 
 ## Previous Teaching ##
 
 **At UCLA:**
 * PIC 16A, Python with Applications I (Fall 2023)
-* PIC 16B, Python with Applications II (Winter 2024, Spring 2024)
+* PIC 16B, Python with Applications II (Winter 2024, Spring 2024, Fall 2024)
+* Math 156, Machine Learning (Summer 2024)
 
 **At Texas A&M:**
 * Instructor, Math 140, Mathematics for Business and Social Sciences, Fall 2021.
