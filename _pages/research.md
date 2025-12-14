@@ -13,6 +13,9 @@ Optimal Recovery (OR), which is a subfield of Approximation Theory, can be viewe
 
 We observed that the optimal recovery framework has a closed relation to Learning Theory, Numerical Analysis (Quadrature Rule), Gaussian Process Regression and Estimation Theory. It has been used to explain many practical problems, but the development of optimal recovery slowed down due to the lack of computational advantages.
 
+**Worst-Case Error:**
+$$\inf_{\phi:\mathbb{R}^m\to\Hc} \sup_{f\in\mathcal{K}} \|Q(f) - \phi(\Lambda(f)+)$$
+
 **The goal of my research is to make optimal recovery more computational-embracing.** Some recent papers with reproducible files can be found [here](https://github.com/liaochunyang/Optimal_Recovery). 
 
 ## Scientific Machine Learning ##
