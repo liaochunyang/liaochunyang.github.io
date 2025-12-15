@@ -9,6 +9,9 @@ Author profiles on <a href="https://scholar.google.com/citations?user=eAPnyCsAAA
 1. **LR-RaNN: Lipschitz Regularized Randomized Neural Networks for System Identification.** <br/>
 Proceedings of the 1st Conference on Topology, Algebra, and Geometry in Data Science(TAG-DS 2025). [Paper](https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/files/Liao25System.pdf)
 
+2. **Solving partial differential equations with random feature models.** <br/>
+Communications in Nonlinear Science and Numerical Simulation, 152, 109343, 2026. <a href="https://doi.org/10.1016/j.cnsns.2025.109343" target="_blank">(doi)</a> <a href="https://arxiv.org/abs/2501.00288" target="_blank">(arXiv)</a> <a href="https://github.com/liaochunyang/RF_PDE" target="_blank">(code)</a>
+
 1. **Radius of information for two intersected centered hyperellipsoids and implications in Optimal Recovery from inaccurate data.** <br/>
 With S.Foucart. Journal of Complexity, 83, 101841, 2024. <a href="https://doi.org/10.1016/j.jco.2024.101841" target="_blank">(doi)</a> <a href="https://arxiv.org/abs/2401.11112" target="_blank">(arXiv)</a> <a href="https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/Python/web/repro_OR_L1(Python).html" target="_blank">(code)</a>
 
