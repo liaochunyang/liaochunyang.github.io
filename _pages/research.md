@@ -15,8 +15,13 @@ We observed that the optimal recovery framework has a closed relation to Learnin
 
 **Worst-Case Error:**
 ```math
-\inf_{\phi:\mathbb{R}^m\to\mathcal{H}} \sup_{ \substack{ f\in\mathcal{K} \\ \|e\|\leq\eta} } \| Q(f) - \phi(\Lambda(f)+e) \|
+\inf_{\phi:\mathbb{R}^m\to\mathcal{Z}} \sup_{ \substack{ f\in\mathcal{K} \\ \|e\|\leq\eta} } \| Q(f) - \phi(\Lambda(f)+e) \|_{\mathcal{Z}}
 ```
+|         | Linear $\Lambda$     | Non-linear $\Lambda$  |
+| -------------    |:-------------:| -----:|
+| Linear $\phi$    |  |  |
+| Arbitrary $\phi$ |       | |
+
 
 **The goal of my research is to make optimal recovery more computational-embracing.** Some recent papers with reproducible files can be found [here](https://github.com/liaochunyang/Optimal_Recovery). 
 
