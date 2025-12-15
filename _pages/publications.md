@@ -6,6 +6,18 @@ author_profile: true
 ---
 
 Author profiles on <a href="https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl" target="_blank">Google Scholar</a> and <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1502929" target="_blank">MathSciNet</a>.
+
+# Preprints
+1. **Differentially private random feature model.** <br/>
+Submitted. With D.Needell, H.Schaeffer, and A.Xue. <a href="https://arxiv.org/abs/2412.04785" target="_blank">(arXiv)</a>
+
+2. **Cauchy Random Features for Operator Learning in Sobolev Space.** <br/>
+Submitted. With D.Needell and H.Schaeffer. <a href="https://arxiv.org/abs/2503.00300" target="_blank">(arXiv)</a>
+
+3. **On the Approximation of Koopman Eigenfunctions with Random Features.** <br/>
+Submitted. [Paper](https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/files/Liao25Koopman.pdf)
+
+# Publications
 1. **LR-RaNN: Lipschitz Regularized Randomized Neural Networks for System Identification.** <br/>
 Proceedings of the 1st Conference on Topology, Algebra, and Geometry in Data Science(TAG-DS 2025). [Paper](https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/files/Liao25System.pdf)
 
