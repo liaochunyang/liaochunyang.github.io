@@ -12,7 +12,7 @@ liaochunyang@math.ucla.edu
 
 About Me
 =====
-I am a Hedrick Assistant Adjunct Professor at UCLA Math Department working with Professors <a href="https://www.math.ucla.edu/~deanna/" target="_blank">Deanna Needell</a> and <a href="https://www.math.ucla.edu/people/ladder/hayden" target="_blank">Hayden Schaeffer</a>. I was a graduate student in the Department of Mathematics at Texas A&M University advised by Professor <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Simon Foucart</a>. 
+I am a Hedrick Assistant Adjunct Professor at UCLA Math Department working with Professors <a href="https://www.math.ucla.edu/~deanna/" target="_blank">Deanna Needell</a> and <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Hayden Schaeffer</a>. I was a graduate student in the Department of Mathematics at Texas A&M University advised by Professor <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Simon Foucart</a>. 
 
 My research interests are Approximation Theory, High-dimensional Probability and in particular their applications in Scientific Machine Learning and Data Science. 
 
