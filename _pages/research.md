@@ -35,5 +35,5 @@ It bridges the gap between traditional approaches that rely on explicit physical
 Communications in Nonlinear Science and Numerical Simulation, 152, 109343, 2026. <a href="https://doi.org/10.1016/j.cnsns.2025.109343" target="_blank">(doi)</a> <a href="https://arxiv.org/abs/2501.00288" target="_blank">(arXiv)</a> <a href="https://github.com/liaochunyang/RF_PDE" target="_blank">(code)</a>
 
 **Cauchy Random Features for Operator Learning in Sobolev Space.** <br/>
-Submitted. With D.Needell and H.Schaeffer. <a href="https://arxiv.org/abs/2503.00300" target="_blank">(ar
+Submitted. With D.Needell and H.Schaeffer. <a href="https://arxiv.org/abs/2503.00300" target="_blank">(arXiv)</a>
 
