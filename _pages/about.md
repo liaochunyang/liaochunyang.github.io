@@ -16,7 +16,7 @@ I am a Hedrick Assistant Adjunct Professor at UCLA Math Department working with 
 
 My research interests are Approximation Theory, High-dimensional Probability and in particular their applications in Scientific Machine Learning and Data Science. 
 
-You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. 
+You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. (Last Updated: March 2026)
 
 I am currently looking for a tenure-track position starting from Fall 2026.
 
