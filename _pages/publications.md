@@ -19,7 +19,7 @@ Submitted. [Paper](https://github.com/liaochunyang/liaochunyang.github.io/blob/g
 
 # Publications
 1. **LR-RaNN: Lipschitz Regularized Randomized Neural Networks for System Identification.** <br/>
-Proceedings of the 1st Conference on Topology, Algebra, and Geometry in Data Science(TAG-DS 2025). [Paper](https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/files/Liao25System.pdf)
+Proceedings of the 1st Conference on Topology, Algebra, and Geometry in Data Science(TAG-DS 2025). <a href="https://proceedings.mlr.press/v321/liao26a.html" target="_blank">(doi)</a> <a href="https://github.com/liaochunyang/LR-RaNN_System_Identification/tree/main" target="black">(code)</a>
 
 2. **Solving partial differential equations with random feature models.** <br/>
 Communications in Nonlinear Science and Numerical Simulation, 152, 109343, 2026. <a href="https://doi.org/10.1016/j.cnsns.2025.109343" target="_blank">(doi)</a> <a href="https://arxiv.org/abs/2501.00288" target="_blank">(arXiv)</a> <a href="https://github.com/liaochunyang/RF_PDE" target="_blank">(code)</a>
@@ -28,7 +28,7 @@ Communications in Nonlinear Science and Numerical Simulation, 152, 109343, 2026.
 With S.Foucart. Journal of Complexity, 83, 101841, 2024. <a href="https://doi.org/10.1016/j.jco.2024.101841" target="_blank">(doi)</a> <a href="https://arxiv.org/abs/2401.11112" target="_blank">(arXiv)</a> <a href="https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/Python/web/repro_OR_L1(Python).html" target="_blank">(code)</a>
 
 2. **S-Procedure Relaxation: a Case of Exactness Involving Chebyshev Centers** <br/>
-With S.Foucart. In Explorations in the Mathematics of Data Science, Birkhäuser, 2024. <a href="https://link.springer.com/chapter/10.1007/978-3-031-66497-7_1" target="_blank">(doi)</a>
+With S.Foucart. In Explorations in the Mathematics of Data Science, Birkhäuser, 2024. <a href="https://link.springer.com/chapter/10.1007/978-3-031-66497-7_1" target="_blank">(doi)</a> <a href="https://arxiv.org/abs/2310.09677" target="_blank">(arXiv)
 
 3. **Optimal Recovery from Inaccurate Data in Hilbert Spaces: Regularize, but what of the Parameter?** <br/> 
 With S.Foucart, Constructive Approximation, 57, 489--520, 2023. <a href="https://link.springer.com/article/10.1007/s00365-022-09590-5" target="_blank">(doi)</a> <a href="https://arxiv.org/abs/2111.02601" target="_blank">(arXiv)</a> <a href="https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/ORHilbert_Reg_repro.html" target="_blank">(code)</a>
