@@ -39,4 +39,4 @@ author_profile: true
 
 ## Notes ##
 
-Under construction.
+* Github repository for PIC16A and PIC16B. <a href="https://github.com/liaochunyang/PIC16" target="_blank">[Github]</a>
