@@ -32,10 +32,10 @@ author_profile: true
 ### Mentoring
 * Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), 2024
 
-  _ _Project: Development of system identification tools for precise control of motors_ _
+<!--- Project: Development of system identification tools for precise control of motors --->
 * Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), 2025
 
-  _ _Project: Leveraging Large Language Models to Enhance Survey Data_ _
+<!--- Project: Leveraging Large Language Models to Enhance Survey Data --->
 
 # Notes
 
