@@ -30,10 +30,10 @@ author_profile: true
 * Math 677, Mathematical Foundations for Data Science, Fall 2022, Spring 2023--->
 
 ### Mentoring
-* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), 2024
+* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2024
 
 <!--- Project: Development of system identification tools for precise control of motors --->
-* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), 2025
+* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2025
 
 <!--- Project: Leveraging Large Language Models to Enhance Survey Data --->
 
