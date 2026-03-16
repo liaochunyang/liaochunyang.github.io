@@ -5,17 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching (Winter 2026) ##
-* PIC 16A, Python with Applications I
+# Current Teaching (Spring 2026)
+* PIC 16B, Python with Applications II
 
-## Previous Teaching ##
+# Previous Teaching and Mentoring
 
-**At UCLA:**
-* PIC 16A, Python with Applications I (Fall 2023, Winter 2025, Spring 2025, Summer 2025, Fall 2025)
+### At UCLA:
+* PIC 16A, Python with Applications I (Fall 2023, Winter 2025, Spring 2025, Summer 2025, Fall 2025, Winter 2026)
 * PIC 16B, Python with Applications II (Winter 2024, Spring 2024, Fall 2024)
 * Math 156, Machine Learning (Summer 2024)
 
-**At Texas A&M:**
+### At Texas A&M:
 * Instructor, Math 140, Mathematics for Business and Social Sciences, Fall 2021.
 <!--- * TA, Math 609,  Numerical Analysis, Fall 2020. --->
 <!--- * TA, Math 152, Engineering Mathematics II, Fall 2019, Spring 2021. --->
@@ -29,7 +29,7 @@ author_profile: true
 * Math 602, Methods and Applications of Partial Differential Equations, Fall 2018
 * Math 677, Mathematical Foundations for Data Science, Fall 2022, Spring 2023--->
 
-## Mentoring ##
+### Mentoring
 * Academic Mentor, 2024 Research in Industrial Projects for Students (RIPS), Institue for Pure & Applied Math (IPAM)
 
   Project: Development of system identification tools for precise control of motors
@@ -37,6 +37,6 @@ author_profile: true
 
   Project: Leveraging Large Language Models to Enhance Survey Data
 
-## Notes ##
+# Notes
 
 * Github repository for PIC16A and PIC16B. <a href="https://github.com/liaochunyang/PIC16" target="_blank">[Github]</a>
