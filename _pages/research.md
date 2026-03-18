@@ -18,6 +18,12 @@ We observed that the optimal recovery framework has a closed relation to Learnin
 
 # Scientific Machine Learning
 
-Scientific machine learning (SciML) is a a rapidly merging field where people apply machine learning techniques to solve complex problems in science and engineering. 
+Scientific machine learning (SciML), which is a rapidly emerging field, combines data-driven methods with traditional scientific modeling to solve complex physical and engineering problems.
 It bridges the gap between traditional approaches that rely on explicit physical laws, and modern machine learning techniques that derive patterns from data. 
-**The goal of my research is to provide theoretical analysis on various machine models and to develop efficient numerical method for various scientific machine learning problems.**
+**My work focuses on the theoretical foundations and computational methods that make these approaches reliable, efficient, and broadly applicable across scientific domains.**
+
+#### Operator Learning
+
+Operator learning focuses on learning mappings between function spaces rather than finite-dimensional inputs and outputs. 
+Instead of predicting a single value, these models learn entire solution operators—such as mapping a differential equation’s inputs (e.g., boundary conditions) to its solutions. 
+This approach is particularly powerful for accelerating simulations of physical systems and enables rapid generalization across varying conditions.
