@@ -22,7 +22,7 @@ Scientific machine learning (SciML), which is a rapidly emerging field, combines
 It bridges the gap between traditional approaches that rely on explicit physical laws, and modern machine learning techniques that derive patterns from data. 
 **My work focuses on the theoretical foundations and computational methods that make these approaches reliable, efficient, and broadly applicable across scientific domains.**
 
-#### Operator Learning
+### Operator Learning
 
 Operator learning focuses on learning mappings between function spaces rather than finite-dimensional inputs and outputs. 
 Instead of predicting a single value, these models learn entire solution operators—such as mapping a differential equation’s inputs (e.g., boundary conditions) to its solutions. 
