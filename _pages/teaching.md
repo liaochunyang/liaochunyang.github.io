@@ -14,7 +14,7 @@ author_profile: true
 * PIC 16B, Python with Applications II (Winter 2024, Spring 2024, Fall 2024)
 * Math 156, Machine Learning (Summer 2024)
 
-## Previous Teaching at Texas A&M:
+## Previous Teaching at Texas A&M
 * Instructor, Math 140, Mathematics for Business and Social Sciences (Fall 2021)
 * Instructor, Qualifying Exam Preparation course for Applied Mathematics (Summer 2022)
 * Teaching Assistant, Math 609,  Numerical Analysis (Fall 2020)
@@ -31,7 +31,7 @@ author_profile: true
 
 ## Previous Mentoring
 
-### Summer REU
+#### Summer REU
 * Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2024
 
 <!--- Project: Development of system identification tools for precise control of motors --->
