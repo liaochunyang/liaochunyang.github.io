@@ -8,18 +8,17 @@ author_profile: true
 # Current Teaching (Spring 2026)
 * PIC 16B, Python with Applications II
 
-# Previous Teaching and Mentoring
+## Previous Teaching at UCLA
 
-### At UCLA:
 * PIC 16A, Python with Applications I (Fall 2023, Winter 2025, Spring 2025, Summer 2025, Fall 2025, Winter 2026)
 * PIC 16B, Python with Applications II (Winter 2024, Spring 2024, Fall 2024)
 * Math 156, Machine Learning (Summer 2024)
 
-### At Texas A&M:
+## Previous Teaching at Texas A&M:
 * Instructor, Math 140, Mathematics for Business and Social Sciences, Fall 2021.
-<!--- * TA, Math 609,  Numerical Analysis, Fall 2020. --->
-<!--- * TA, Math 152, Engineering Mathematics II, Fall 2019, Spring 2021. --->
-<!--- * TA, Math 664, Topics in Mathematical Data Science, Spring 2022. --->
+TA, Math 609,  Numerical Analysis, Fall 2020.
+TA, Math 152, Engineering Mathematics II, Fall 2019, Spring 2021.
+A, Math 664, Topics in Mathematical Data Science, Spring 2022.
 <!--- * TA, Qualifying Exam Preparation course (Applied Mathematics), Summer 2022. --->
 <!--- [Past Qual Problem Set](https://www.math.tamu.edu/graduate/phd/quals.html) and my handwritten [Solutions](https://github.com/liaochunyang/liaochunyang.github.io/tree/gh-pages/_teaching/Applied_Qual)--->
 
@@ -29,7 +28,9 @@ author_profile: true
 * Math 602, Methods and Applications of Partial Differential Equations, Fall 2018
 * Math 677, Mathematical Foundations for Data Science, Fall 2022, Spring 2023--->
 
-### Mentoring
+## Previous Mentoring
+
+### Summer REU
 * Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2024
 
 <!--- Project: Development of system identification tools for precise control of motors --->
