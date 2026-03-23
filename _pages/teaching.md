@@ -16,10 +16,11 @@ author_profile: true
 
 ## Previous Teaching at Texas A&M:
 * Instructor, Math 140, Mathematics for Business and Social Sciences (Fall 2021)
-* TA, Math 609,  Numerical Analysis (Fall 2020)
-* TA, Math 152, Engineering Mathematics II (Fall 2019, Spring 2021)
-* TA, Math 664, Topics in Mathematical Data Science (Spring 2022)
-<!--- * TA, Qualifying Exam Preparation course (Applied Mathematics), Summer 2022. --->
+* Instructor, Qualifying Exam Preparation course for Applied Mathematics (Summer 2022)
+* Teaching Assistant, Math 609,  Numerical Analysis (Fall 2020)
+* Teaching Assistant, Math 152, Engineering Mathematics II (Fall 2019, Spring 2021)
+* Teaching Assistant, Math 664, Topics in Mathematical Data Science (Spring 2022)
+
 <!--- [Past Qual Problem Set](https://www.math.tamu.edu/graduate/phd/quals.html) and my handwritten [Solutions](https://github.com/liaochunyang/liaochunyang.github.io/tree/gh-pages/_teaching/Applied_Qual)--->
 
 <!---Grader:
