@@ -5,11 +5,11 @@ permalink: /mentoring/
 author_profile: true
 ---
 
-# Current Teaching (Spring 2026)
-* PIC 16B, Python with Applications II
 
-## Previous Teaching at UCLA
+## REU
+* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2024
 
-* PIC 16A, Python with Applications I (Fall 2023, Winter 2025, Spring 2025, Summer 2025, Fall 2025, Winter 2026)
-* PIC 16B, Python with Applications II (Winter 2024, Spring 2024, Fall 2024)
-* Math 156, Machine Learning (Summer 2024)
+<!--- Project: Development of system identification tools for precise control of motors --->
+* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2025
+
+<!--- Project: Leveraging Large Language Models to Enhance Survey Data --->
