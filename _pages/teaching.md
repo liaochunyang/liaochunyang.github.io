@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Current Teaching (Spring 2026)
+
+## Current Teaching (Spring 2026)
 * PIC 16B, Python with Applications II
 
 ## Previous Teaching at UCLA
