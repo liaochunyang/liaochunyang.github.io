@@ -30,16 +30,6 @@ author_profile: true
 * Math 602, Methods and Applications of Partial Differential Equations, Fall 2018
 * Math 677, Mathematical Foundations for Data Science, Fall 2022, Spring 2023--->
 
-## Previous Mentoring
-
-#### Summer REU
-* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2024
-
-<!--- Project: Development of system identification tools for precise control of motors --->
-* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2025
-
-<!--- Project: Leveraging Large Language Models to Enhance Survey Data --->
-
 # Notes
 
 * Github repository for PIC16A and PIC16B. <a href="https://github.com/liaochunyang/PIC16" target="_blank">[Github]</a>
