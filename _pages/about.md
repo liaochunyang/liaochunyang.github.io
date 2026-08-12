@@ -17,8 +17,6 @@ I am a tenure-track assistant professor in the Department of Mathematical Scienc
 Prior to joining the University of Arkansas, I was a Hedrick Assistant Adjunct Professor at UCLA Math Department working with Professors <a href="https://www.math.ucla.edu/~deanna/" target="_blank">Deanna Needell</a> and <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Hayden Schaeffer</a>. 
 I earned my Phd degree from the Department of Mathematics at Texas A&M University. My Phd advisor is Professor <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Simon Foucart</a>. 
 
-My research interests are Approximation Theory, High-dimensional Probability and in particular their applications in Scientific Machine Learning and Data Science. 
-
 You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. (Last Updated: Aug 2026)
 
 Education
