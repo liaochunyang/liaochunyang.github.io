@@ -21,7 +21,7 @@ $$
 \inf_{\varphi} \sup_{f\in \mathcal{K}} \| Q(f) - \varphi(N(f)) \|_Z
 $$
 
-Besides the general problem setting described above, we may also consider some specific settings where we consider linear information $N$ or linear recovery method $\varphi$. Some of them are close to approximation theory 
+Beyond the general setting described above, we may also consider several more specific settings in which either the information $N$ or the recovery method $\varphi$ is restricted to be linear. Some of these settings are closely related to classical approximation theory, as summarized in the table below.
 
 <div align="center">
 <table style="margin: auto; font-size: 14px; text-align: center; border-collapse: collapse;">
