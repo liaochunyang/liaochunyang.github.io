@@ -23,7 +23,7 @@ $$
 
 Beyond the general setting described above, we may also consider several more specific settings in which either the information $N$ or the recovery method $\varphi$ is restricted to be linear. Some of these settings are closely related to classical approximation theory, as summarized in the table below.
 
-<div align="center" style="font-size: 12px;">
+<div align="center" style="font-size: 8px;">
 <table style="margin: auto; text-align: center; border-collapse: collapse;">
   <tr>
     <th>Information / Recovery</th>
