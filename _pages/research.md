@@ -23,29 +23,10 @@ $$
 
 Beyond the general setting described above, we may also consider several more specific settings in which either the information $N$ or the recovery method $\varphi$ is restricted to be linear. Some of these settings are closely related to classical approximation theory, as summarized in the table below.
 
-<div align="center">
-
-<table style="text-align: center; border-collapse: collapse;">
-  <tr>
-    <th style="font-size: 8px;">Information / Recovery</th>
-    <th style="font-size: 12px;">Linear recovery</th>
-    <th style="font-size: 12px;">Arbitrary recovery</th>
-  </tr>
-  <tr>
-    <td style="font-size: 12px;">Linear information</td>
-    <td style="font-size: 12px;">Approximation number</td>
-    <td style="font-size: 12px;">Gelfand number</td>
-  </tr>
-  <tr>
-    <td style="font-size: 12px;">Arbitrary information</td>
-    <td style="font-size: 12px;">Linear width</td>
-    <td style="font-size: 12px;">Manifold width</td>
-  </tr>
-</table>
-
-</div>
-
-
+| | Linear recovery | Arbitrary recovery |
+|---|---|---|
+| Linear information <br>(point evaluation) | Approximation number  | Gelfand width <br>(Sampling number) |
+| Arbitrary information | Linear width | Manifold width |
 
 
 We observed that the optimal recovery framework has a closed relation to Learning Theory, Numerical Analysis (Quadrature Rule), Gaussian Process Regression and Estimation Theory. It has been used to explain many practical problems, but the development of optimal recovery slowed down due to the lack of computational advantages.
