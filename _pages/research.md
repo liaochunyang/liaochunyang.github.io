@@ -38,11 +38,19 @@ We observed that the optimal recovery framework has a closed relation to Learnin
 
 Scientific machine learning (SciML), which is a rapidly emerging field, combines data-driven methods with traditional scientific modeling to solve complex physical and engineering problems.
 It bridges the gap between traditional approaches that rely on explicit physical laws, and modern machine learning techniques that derive patterns from data. 
-**My work focuses on the theoretical foundations and computational methods that make these approaches reliable, efficient, and broadly applicable across scientific domains.**
+I am interested in the **theoretical foundations** of Scientific Machine Learning and the development of **novel computational methods** that are reliable, efficient, and broadly applicable across scientific domains.
+Some recent work with reproducible files and public resources can be found [here](https://github.com/liaochunyang/SciML).
 
-#### Physics-informed Machine Learning
+### Physics-informed Machine Learning
+Physics-informed Machine Learning (PIML) is an approach that integrates physical laws and governing equations directly into data-driven models. By combining the flexibility of machine learning with the structure and interpretability of physical principles, PIML can enable more accurate, robust, and physically consistent predictions. 
 
-#### Operator Learning
+One example is the use of physics-informed neural networks (PINNs) to solve partial differential equations (PDEs). Instead of relying solely on large amounts of labeled simulation data, a neural network can be trained while enforcing the underlying PDE, together with its initial and boundary conditions, as part of the learning objective. This provides a way to approximate solutions to complex physical systems directly from their governing equations.
 
-Operator learning focuses on learning mappings between function spaces rather than finite-dimensional inputs and outputs, see, for example, the solution operator from initial conditions to PDE solutions. 
-This approach is particularly powerful for accelerating simulations of physical systems and enables rapid generalization across varying conditions.
+**My goals are developing theoretical foundation that explains its approximation, optimization, and generalization properties, designing efficient, reliable, and principled computational methods, and applying them to challenging real-world problems.**
+
+### Operator Learning
+Operator learning focuses on learning mappings between infinite-dimensional function spaces, rather than conventional mappings between finite-dimensional inputs and outputs. A representative example is learning the solution operator of a partial differential equation (PDE), which maps input functions such as initial conditions, boundary conditions, or source terms to the corresponding PDE solutions.
+
+This ambitious framework provides a powerful approach for learning families of PDE solutions and can enable efficient surrogate models for repeated simulations across varying initial conditions, parameters, and physical settings.
+
+My research focuses on developing the theoretical foundations of operator learning, understanding its approximation, generalization, and computational properties, and designing novel and efficient operator-learning methods that are reliable across different physical systems and problem settings. Ultimately, I aim to develop principled operator-learning approaches that combine mathematical theory with computational efficiency and enable applications to challenging problems in scientific computing.
