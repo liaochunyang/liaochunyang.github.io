@@ -11,7 +11,7 @@ My research interests are Approximation Theory, Scientific Machine Learning， a
 
 Optimal Recovery (OR), which is a subfield of Approximation Theory, can be viewed as a nonstatistical learning Theory. The main task is to approximate an unknown function from observations and an explicit model assumption on the function to be recovered.
 $$
- \xrightarrow{N} \mathbb{R}^n 
+\mathbb{R}^n 
 $$
 
 The problem is considered under deterministic problem setting where we assume function inputs are fixed quantities (even unfavorable) and observational errors are bounded not random. To assess the performance, we adopt worst-case error perspective which is key to Optimal Recovery.
