@@ -25,7 +25,7 @@ Beyond the general setting described above, we may also consider several more sp
 
 <div align="center">
 
-<table style="text-align: center; border-collapse: collapse; font-size: 50%;">
+<table style="text-align: center; border-collapse: collapse; font-size: 50% ;">
 
   <tr>
     <th>Information / Recovery</th>
