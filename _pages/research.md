@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests are Approximation Theory, Scientific Machine Learning， and Mathematical Data Science. In particular, I am working on the following problems：
+My research interests are Approximation Theory, Scientific Machine Learning, and Mathematical Data Science. In particular, I am working on the following problems：
 
 ## Optimal Recovery
 
