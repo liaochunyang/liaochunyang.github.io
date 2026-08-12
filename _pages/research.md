@@ -24,7 +24,7 @@ $$
 Beyond the general setting described above, we may also consider several more specific settings in which either the information $N$ or the recovery method $\varphi$ is restricted to be linear. Some of these settings are closely related to classical approximation theory, as summarized in the table below.
 
 <div align="center">
-<table style="margin: auto; font-size: 14px; text-align: center; border-collapse: collapse;">
+<table style="margin: auto; font-size: 16px; text-align: center; border-collapse: collapse;">
   <tr>
     <th style="padding: 4px 8px;">Information / Recovery</th>
     <th style="padding: 4px 8px;">Linear recovery</th>
