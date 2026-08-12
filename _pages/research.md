@@ -29,7 +29,7 @@ Beyond the general setting described above, we may also consider several more sp
 | Arbitrary information | Linear width | Manifold width |
 
 
-We observed that the optimal recovery framework has a closed relation to Learning Theory, Numerical Analysis (Quadrature Rule), Gaussian Process Regression and Estimation Theory. It has been used to explain many practical problems, but the development of optimal recovery slowed down due to the lack of computational advantages.
+We observed that the optimal recovery framework has a closed relation to Learning Theory (kernel method and Gaussian process regression), Numerical Analysis (Quadrature Rule), Inverse Problem, and Estimation Theory. It has been used to explain many practical problems, but the development of optimal recovery slowed down due to the lack of computational advantages.
 
 **The goal of my research is to make optimal recovery more computational-embracing.** Some recent papers with reproducible files can be found [here](https://github.com/liaochunyang/Optimal_Recovery). 
 
