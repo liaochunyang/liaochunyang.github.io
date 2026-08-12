@@ -25,21 +25,21 @@ Beyond the general setting described above, we may also consider several more sp
 
 <div align="center">
 
-<table>
+<table style="text-align: center; border-collapse: collapse;">
   <tr>
-    <th><font size="2">Information / Recovery</font></th>
-    <th><font size="2">Linear recovery</font></th>
-    <th><font size="2">Arbitrary recovery</font></th>
+    <th style="font-size: 12px;">Information / Recovery</th>
+    <th style="font-size: 12px;">Linear recovery</th>
+    <th style="font-size: 12px;">Arbitrary recovery</th>
   </tr>
   <tr>
-    <td><font size="2">Linear information</font></td>
-    <td><font size="2">Approximation number</font></td>
-    <td><font size="2">Gelfand number</font></td>
+    <td style="font-size: 12px;">Linear information</td>
+    <td style="font-size: 12px;">Approximation number</td>
+    <td style="font-size: 12px;">Gelfand number</td>
   </tr>
   <tr>
-    <td><font size="2">Arbitrary information</font></td>
-    <td><font size="2">Linear width</font></td>
-    <td><font size="2">Manifold width</font></td>
+    <td style="font-size: 12px;">Arbitrary information</td>
+    <td style="font-size: 12px;">Linear width</td>
+    <td style="font-size: 12px;">Manifold width</td>
   </tr>
 </table>
 
