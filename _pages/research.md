@@ -23,8 +23,8 @@ $$
 
 Besides the general problem setting described above, we may also consider some specific settings where we consider linear information $N$ or linear recovery method $\varphi$. Some of them are close to approximation theory 
 
-
-<table style="margin: auto; font-size: 12px; text-align: center; border-collapse: collapse;">
+<div align="center"
+<table style="margin: auto; font-size: 14px; text-align: center; border-collapse: collapse;">
   <tr>
     <th style="padding: 4px 8px;">Information / Recovery</th>
     <th style="padding: 4px 8px;">Linear recovery</th>
@@ -41,7 +41,7 @@ Besides the general problem setting described above, we may also consider some s
     <td style="padding: 4px 8px;">Manifold width</td>
   </tr>
 </table>
-
+</div>
 
 
 
