@@ -15,12 +15,37 @@ $$
 \text{Function Space } F \overset{N}{\longrightarrow} \mathbb{R}^n \overset{\varphi}{\longrightarrow} \text{Target Space } Z
 $$
 
-The problem is considered under deterministic problem setting where we assume function inputs are fixed quantities (even unfavorable) and observational errors are bounded not random. To assess the performance, we adopt worst-case error perspective which is key to Optimal Recovery.
+The problem is considered under deterministic problem setting where we assume function inputs are fixed quantities (even unfavorable) and observational errors are bounded not random. To assess the performance, we adopt worst-case error perspective which is key to Optimal Recovery:
+
+$$
+\inf_{\varphi} \sup_{f\in \mathcal{K}} \| Q(f) - \varphi(N(f)) \\_Z
+$$
 
 | | Linear recovery $\varphi$ | Arbitrary recovery $\varphi$ |
 |---|---|---|
 | Linear information $N$ | Approximation number | Gelfand number |
 | Arbitrary information $N$ | Linear width | Manifold width |
+
+
+<small>
+<table cellpadding="4">
+  <tr>
+    <th>Information / Recovery</th>
+    <th>Linear recovery</th>
+    <th>Arbitrary recovery</th>
+  </tr>
+  <tr>
+    <td>Linear information</td>
+    <td>Approximation number</td>
+    <td>Gelfand number</td>
+  </tr>
+  <tr>
+    <td>Arbitrary information</td>
+    <td>Linear width</td>
+    <td>Manifold width</td>
+  </tr>
+</table>
+</small>
 
 We observed that the optimal recovery framework has a closed relation to Learning Theory, Numerical Analysis (Quadrature Rule), Gaussian Process Regression and Estimation Theory. It has been used to explain many practical problems, but the development of optimal recovery slowed down due to the lack of computational advantages.
 
