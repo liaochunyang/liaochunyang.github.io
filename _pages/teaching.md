@@ -6,13 +6,15 @@ author_profile: true
 ---
 
 
-## Current Teaching (Spring 2026)
-* PIC 16B, Python with Applications II
+# Teaching
+
+## Current Teaching (Fall 2026)
+* MATH 53603, Scientific Computation and Numerical Methods
 
 ## Previous Teaching at UCLA
 
 * PIC 16A, Python with Applications I (Fall 2023, Winter 2025, Spring 2025, Summer 2025, Fall 2025, Winter 2026)
-* PIC 16B, Python with Applications II (Winter 2024, Spring 2024, Fall 2024)
+* PIC 16B, Python with Applications II (Winter 2024, Spring 2024, Fall 2024, Spring 2026)
 * Math 156, Machine Learning (Summer 2024)
 
 ## Previous Teaching at Texas A&M
@@ -29,6 +31,23 @@ author_profile: true
 * Math 401, Advanced Engineering Mathematics, Spring 2019
 * Math 602, Methods and Applications of Partial Differential Equations, Fall 2018
 * Math 677, Mathematical Foundations for Data Science, Fall 2022, Spring 2023--->
+
+# Mentoring
+
+## Undergraduate Students
+* Minghao Wang (Fall 2025 - Summer 2026)
+* Meichen Wan (Summer 2026 - Now)
+
+## REU
+* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2024 [Link](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2024-los-angeles/)
+
+  Team: Michelle Bang, S Isik, Shreya Jha, Shaymaa Mahmoud
+
+<!--- Project: Development of system identification tools for precise control of motors --->
+* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2025 [Link](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2025-los-angeles/)
+
+  Team: Alina Hyk, Leonardo Marciaga, Thuyen Pham, Julia Rezvani
+
 
 # Notes
 
