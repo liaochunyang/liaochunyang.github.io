@@ -21,7 +21,9 @@ author_profile: true
 * Teaching Assistant, Math 609,  Numerical Analysis (Fall 2020)
 * Teaching Assistant, Math 152, Engineering Mathematics II (Fall 2019, Spring 2021)
 * Teaching Assistant, Math 664, Topics in Mathematical Data Science (Spring 2022)
-
+<br/>
+<br/>
+<br/>
 <!--- [Past Qual Problem Set](https://www.math.tamu.edu/graduate/phd/quals.html) and my handwritten [Solutions](https://github.com/liaochunyang/liaochunyang.github.io/tree/gh-pages/_teaching/Applied_Qual)--->
 
 <!---Grader:
@@ -42,9 +44,8 @@ author_profile: true
 Team: Michelle Bang, S Isik, Shreya Jha, Shaymaa Mahmoud
 
 <!--- Project: Development of system identification tools for precise control of motors --->
-* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2025 [Link](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2025-los-angeles/)
-
-  Team: Alina Hyk, Leonardo Marciaga, Thuyen Pham, Julia Rezvani
+* Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2025 [Link](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2025-los-angeles/) <br/>
+Team: Alina Hyk, Leonardo Marciaga, Thuyen Pham, Julia Rezvani
 
 
 # Notes
