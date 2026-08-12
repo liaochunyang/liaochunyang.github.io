@@ -23,7 +23,7 @@ $$
 
 Besides the general problem setting described above, we may also consider some specific settings where we consider linear information $N$ or linear recovery method $\varphi$. Some of them are close to approximation theory 
 
-<div align="center"
+<div align="center">
 <table style="margin: auto; font-size: 14px; text-align: center; border-collapse: collapse;">
   <tr>
     <th style="padding: 4px 8px;">Information / Recovery</th>
