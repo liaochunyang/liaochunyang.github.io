@@ -38,6 +38,7 @@ We observed that the optimal recovery framework has a closed relation to Learnin
 
 Scientific machine learning (SciML), which is a rapidly emerging field, combines data-driven methods with traditional scientific modeling to solve complex physical and engineering problems.
 It bridges the gap between traditional approaches that rely on explicit physical laws, and modern machine learning techniques that derive patterns from data. 
+
 I am interested in the **theoretical foundations** of Scientific Machine Learning and the development of **novel computational methods** that are reliable, efficient, and broadly applicable across scientific domains.
 Some recent work with reproducible files and public resources can be found [here](https://github.com/liaochunyang/SciML).
 
