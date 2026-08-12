@@ -83,12 +83,12 @@ author:
   name             : "Chunyang Liao"
   avatar           : "bio-picture.JPG"
   bio              : 
-  location         : "Los Angeles, California"
+  location         : "Fayetteville, Arkansas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Chunyang-Liao"
+  researchgate     : #"https://www.researchgate.net/profile/Chunyang-Liao"
   uri              :
   bitbucket        :
   codepen          :
