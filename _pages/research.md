@@ -23,25 +23,32 @@ $$
 
 Beyond the general setting described above, we may also consider several more specific settings in which either the information $N$ or the recovery method $\varphi$ is restricted to be linear. Some of these settings are closely related to classical approximation theory, as summarized in the table below.
 
-<div align="center" style="font-size: 8px;">
-<table style="margin: auto; text-align: center; border-collapse: collapse;">
+<div align="center">
+
+<table style="text-align: center; border-collapse: collapse; font-size: 80%;">
+
   <tr>
     <th>Information / Recovery</th>
     <th>Linear recovery</th>
     <th>Arbitrary recovery</th>
   </tr>
+
   <tr>
     <td>Linear information</td>
     <td>Approximation number</td>
     <td>Gelfand number</td>
   </tr>
+
   <tr>
     <td>Arbitrary information</td>
     <td>Linear width</td>
     <td>Manifold width</td>
   </tr>
+
 </table>
+
 </div>
+
 
 
 
