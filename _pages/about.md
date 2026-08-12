@@ -19,6 +19,8 @@ I earned my Phd degree from the Department of Mathematics at Texas A&M Universit
 
 You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. (Last Updated: Aug 2026)
 
+Students interested in my research are welcome to get in touch.
+
 <!-- Education
 =====
 * Ph.D in Mathematics, Texas A&M University, 2018 - 2023
