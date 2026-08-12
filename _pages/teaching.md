@@ -6,18 +6,16 @@ author_profile: true
 ---
 
 
-# Teaching
-
-## Current Teaching (Fall 2026)
+### Current Teaching (Fall 2026)
 * MATH 53603, Scientific Computation and Numerical Methods
 
-## Previous Teaching at UCLA
+### Previous Teaching at UCLA
 
 * PIC 16A, Python with Applications I (Fall 2023, Winter 2025, Spring 2025, Summer 2025, Fall 2025, Winter 2026)
 * PIC 16B, Python with Applications II (Winter 2024, Spring 2024, Fall 2024, Spring 2026)
 * Math 156, Machine Learning (Summer 2024)
 
-## Previous Teaching at Texas A&M
+### Previous Teaching at Texas A&M
 * Instructor, Math 140, Mathematics for Business and Social Sciences (Fall 2021)
 * Instructor, Qualifying Exam Preparation course for Applied Mathematics (Summer 2022)
 * Teaching Assistant, Math 609,  Numerical Analysis (Fall 2020)
@@ -32,13 +30,14 @@ author_profile: true
 * Math 602, Methods and Applications of Partial Differential Equations, Fall 2018
 * Math 677, Mathematical Foundations for Data Science, Fall 2022, Spring 2023--->
 
-# Mentoring
 
-## Undergraduate Students
+
+# Mentoring
+### Undergraduate Students
 * Minghao Wang (Fall 2025 - Summer 2026)
 * Meichen Wan (Summer 2026 - Now)
 
-## REU
+### REU
 * Academic Mentor, Research in Industrial Projects for Students (RIPS) at Institue for Pure & Applied Math (IPAM), Summer 2024 [Link](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2024-los-angeles/)
 
   Team: Michelle Bang, S Isik, Shreya Jha, Shaymaa Mahmoud
