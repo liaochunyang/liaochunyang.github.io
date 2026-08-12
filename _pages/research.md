@@ -27,7 +27,7 @@ Beyond the general setting described above, we may also consider several more sp
 
 <table style="text-align: center; border-collapse: collapse;">
   <tr>
-    <th style="font-size: 12px;">Information / Recovery</th>
+    <th style="font-size: 8px;">Information / Recovery</th>
     <th style="font-size: 12px;">Linear recovery</th>
     <th style="font-size: 12px;">Arbitrary recovery</th>
   </tr>
