@@ -7,15 +7,11 @@ author_profile: true
 
 My research interests are Approximation Theory, Scientific Machine Learning， and Mathematical Data Science. In particular, I am working on the following problems：
 
-$$
-x^2
-$$
-
 ## Optimal Recovery
 
 Optimal Recovery (OR), which is a subfield of Approximation Theory, can be viewed as a nonstatistical learning Theory. The main task is to approximate an unknown function from observations and an explicit model assumption on the function to be recovered.
 $$
-\text{Function space} F \xrightarrow{N} \mathbb{R}^n \xrightarrow{N}  \text{Target Space} G
+\text{Function space } F 
 $$
 
 The problem is considered under deterministic problem setting where we assume function inputs are fixed quantities (even unfavorable) and observational errors are bounded not random. To assess the performance, we adopt worst-case error perspective which is key to Optimal Recovery.
