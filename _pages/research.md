@@ -21,13 +21,10 @@ $$
 \inf_{\varphi} \sup_{f\in \mathcal{K}} \| Q(f) - \varphi(N(f)) \|_Z
 $$
 
-| | Linear recovery $\varphi$ | Arbitrary recovery $\varphi$ |
-|---|---|---|
-| Linear information $N$ | Approximation number | Gelfand number |
-| Arbitrary information $N$ | Linear width | Manifold width |
+Besides the general problem setting described above, we may also consider some specific settings where we consider linear information $N$ or linear recovery method $\varphi$. Some of them are close to approximation theory 
 
 
-<table style="font-size: 12px; text-align: center; border-collapse: collapse;">
+<table style="margin: auto; font-size: 12px; text-align: center; border-collapse: collapse;">
   <tr>
     <th style="padding: 4px 8px;">Information / Recovery</th>
     <th style="padding: 4px 8px;">Linear recovery</th>
@@ -44,6 +41,9 @@ $$
     <td style="padding: 4px 8px;">Manifold width</td>
   </tr>
 </table>
+
+
+
 
 We observed that the optimal recovery framework has a closed relation to Learning Theory, Numerical Analysis (Quadrature Rule), Gaussian Process Regression and Estimation Theory. It has been used to explain many practical problems, but the development of optimal recovery slowed down due to the lack of computational advantages.
 
