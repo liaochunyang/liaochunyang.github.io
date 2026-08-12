@@ -9,7 +9,7 @@ My research interests are Approximation Theory, Scientific Machine Learning， a
 
 ## Optimal Recovery
 
-Optimal Recovery (OR), which is a subfield of Approximation Theory, can be viewed as a nonstatistical learning Theory. The main task is to approximate an unknown function from observations and an explicit model assumption on the function to be recovered.
+Optimal Recovery (OR), which is a subfield of Approximation Theory, can be viewed as a nonstatistical learning Theory. The main task is to approximate an unknown function from observations and an explicit model assumption on the function to be recovered. <br/>
 $$
 x^n 
 $$
