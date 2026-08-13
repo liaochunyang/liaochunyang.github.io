@@ -16,6 +16,7 @@ I am a tenure-track assistant professor in the Department of Mathematical Scienc
 - Approximation Theory
 - Scientific Machine Learning
 - Mathematical Data Science
+
 See my [research page](research.md) for an in-depth explanation.
 
 Prior to joining the University of Arkansas, I was a Hedrick Assistant Adjunct Professor at UCLA Math Department working with Professors <a href="https://www.math.ucla.edu/~deanna/" target="_blank">Deanna Needell</a> and <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Hayden Schaeffer</a>. 
@@ -42,4 +43,4 @@ Contact Info
 <!-- * Address: Mathematical Sciences Building 7901, 520 Portola Plaza, Los Angeles, CA 90095 -->
 * Office: SCEN 222 
 * Email: cliao1@uark.edu
-* Office Hours:  By Appointment
+* Office Hours: By Appointment
