@@ -15,8 +15,7 @@ About Me
 I am a tenure-track assistant professor in the Department of Mathematical Sciences at University of Arkansas, Fayetteville since Fall 2026. My research interests include:
 - Approximation Theory
 - Scientific Machine Learning
-- Mathematical Data Science.
-
+- Mathematical Data Science
 See my [research page](research.md) for an in-depth explanation.
 
 Prior to joining the University of Arkansas, I was a Hedrick Assistant Adjunct Professor at UCLA Math Department working with Professors <a href="https://www.math.ucla.edu/~deanna/" target="_blank">Deanna Needell</a> and <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Hayden Schaeffer</a>. 
