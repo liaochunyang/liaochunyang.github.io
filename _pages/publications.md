@@ -17,6 +17,9 @@ Submitted. With D.Needell and H.Schaeffer. <a href="https://arxiv.org/abs/2503.0
 3. **Generating Public Health Responses using Survey-Augmented Large Language Models.** <br/>
 With L.Marciaga, T.Pham, J.Rezvani, A.Hyk, K.Mitsopoulos, R.Vardavas. <a href="https://arxiv.org/abs/2606.21820" target="_blank">(arXiv)</a>
 
+4. **Kernel Methods for Learning Operators with Multiple Inputs and Outputs.** <br/>
+With A.Weihs, J.Sun, and H.Schaeffer. <a href="https://arxiv.org/pdf/2608.11831" target="_blank">(arXiv)</a>
+
 
 # Publications
 1. **On the Approximation of Koopman Eigenfunctions with Random Features.** <br/>
