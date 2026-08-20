@@ -22,7 +22,7 @@ See my [research page](research.md) for an in-depth explanation.
 Prior to joining the University of Arkansas, I was a Hedrick Assistant Adjunct Professor at UCLA Math Department working with Professors <a href="https://www.math.ucla.edu/~deanna/" target="_blank">Deanna Needell</a> and <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Hayden Schaeffer</a>. 
 I earned my Phd degree from the Department of Mathematics at Texas A&M University, where my Phd advisor was Professor <a href="https://www.math.tamu.edu/~foucart/" target="_blank">Simon Foucart</a>. 
 
-You can find my completed CV <a href="https://github.com/liaochunyang/liaochunyang.github.io/blob/gh-pages/cv.pdf" target="_blank">here</a>. (Last Updated: Aug 2026)
+You can find my completed CV <a href="https://liaochunyang.github.io/cv.pdf" target="_blank">here</a>. (Last Updated: Aug 2026)
 
 Students interested in my research are welcome to get in touch.
 
