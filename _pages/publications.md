@@ -22,7 +22,7 @@ Submitted. With D.Needell and H.Schaeffer. <a href="https://arxiv.org/abs/2503.0
 
 # Publications
 1. **On the Approximation of Koopman Eigenfunctions with Random Features.** <br/>
-Foundations of Data Science, 2026. <a href="https://www.aimsciences.org//article/doi/10.3934/fods.2026010" target="_blank">(doi)</a>  <a href="https://github.com/liaochunyang/Koopman" target="_blank">(code)</a>
+Foundations of Data Science, 12: 45-66, 2027. <a href="https://www.aimsciences.org//article/doi/10.3934/fods.2026010" target="_blank">(doi)</a>  <a href="https://github.com/liaochunyang/Koopman" target="_blank">(code)</a>
 
 1. **LR-RaNN: Lipschitz Regularized Randomized Neural Networks for System Identification.** <br/>
 Proceedings of the 1st Conference on Topology, Algebra, and Geometry in Data Science(TAG-DS 2025). <a href="https://proceedings.mlr.press/v321/liao26a.html" target="_blank">(doi)</a> <a href="https://github.com/liaochunyang/LR-RaNN_System_Identification/tree/main" target="black">(code)</a>
