@@ -20,6 +20,8 @@ With L.Marciaga, T.Pham, J.Rezvani, A.Hyk, K.Mitsopoulos, R.Vardavas. <a href="h
 4. **Kernel Methods for Learning Operators with Multiple Inputs and Outputs.** <br/>
 With A.Weihs, J.Sun, and H.Schaeffer. <a href="https://arxiv.org/pdf/2608.11831" target="_blank">(arXiv)</a>
 
+4. **Physics Informed Random Feature Neural Networks for Solving PDEs.** <br/>
+With C.Chen and M.Zhong. <a href="https://arxiv.org/abs/2609.16406" target="_blank">(arXiv)</a>  <a href="https://github.com/er10ic24-ui/Random-feature-model" target="_blank">[Code]</a>
 
 # Publications
 1. **On the Approximation of Koopman Eigenfunctions with Random Features.** <br/>
