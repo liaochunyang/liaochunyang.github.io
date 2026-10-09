@@ -8,20 +8,17 @@ author_profile: true
 Author profiles on <a href="https://scholar.google.com/citations?user=eAPnyCsAAAAJ&hl" target="_blank">Google Scholar</a> and <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1502929" target="_blank">MathSciNet</a>.
 
 # Preprints
-1. **Differentially private random feature model.** <br/>
-Submitted. With D.Needell, H.Schaeffer, and A.Xue. <a href="https://arxiv.org/abs/2412.04785" target="_blank">(arXiv)</a>
+1. **Physics Informed Random Feature Neural Networks for Solving PDEs.** <br/>
+With C.Chen and M.Zhong. <a href="https://arxiv.org/abs/2609.16406" target="_blank">(arXiv)</a>  <a href="https://github.com/er10ic24-ui/Random-feature-model" target="_blank">(Code)</a>
 
-2. **Cauchy Random Features for Operator Learning in Sobolev Space.** <br/>
-Submitted. With D.Needell and H.Schaeffer. <a href="https://arxiv.org/abs/2503.00300" target="_blank">(arXiv)</a>
+2. **Kernel Methods for Learning Operators with Multiple Inputs and Outputs.** <br/>
+With A.Weihs, J.Sun, and H.Schaeffer. <a href="https://arxiv.org/pdf/2608.11831" target="_blank">(arXiv)</a> <a href="https://github.com/liaochunyang/kernelMO" target="_blank">(Code)</a>
 
-3. **Generating Public Health Responses using Survey-Augmented Large Language Models.** <br/>
-With L.Marciaga, T.Pham, J.Rezvani, A.Hyk, K.Mitsopoulos, R.Vardavas. <a href="https://arxiv.org/abs/2606.21820" target="_blank">(arXiv)</a>
+3. **Differentially private random feature model.** <br/>
+Submitted. With D.Needell, H.Schaeffer, and A.Xue. <a href="https://arxiv.org/abs/2412.04785" target="_blank">(arXiv)</a> <a href="https://github.com/liaochunyang/DPRFM" target="_blank">(Code)</a>
 
-4. **Kernel Methods for Learning Operators with Multiple Inputs and Outputs.** <br/>
-With A.Weihs, J.Sun, and H.Schaeffer. <a href="https://arxiv.org/pdf/2608.11831" target="_blank">(arXiv)</a>
-
-4. **Physics Informed Random Feature Neural Networks for Solving PDEs.** <br/>
-With C.Chen and M.Zhong. <a href="https://arxiv.org/abs/2609.16406" target="_blank">(arXiv)</a>  <a href="https://github.com/er10ic24-ui/Random-feature-model" target="_blank">[Code]</a>
+4. **Cauchy Random Features for Operator Learning in Sobolev Space.** <br/>
+Submitted. With D.Needell and H.Schaeffer. <a href="https://arxiv.org/abs/2503.00300" target="_blank">(arXiv)</a> <a href="https://github.com/liaochunyang/RandomFeatureOperatorLearning" target="_blank">(Code)</a>
 
 # Publications
 1. **On the Approximation of Koopman Eigenfunctions with Random Features.** <br/>
@@ -50,6 +47,12 @@ With S.Foucart, S.Shahrampour and Y. Wang, Sampling Theory, Signal Processing an
 
 6. **A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks** <br/>
 With Mingrui Liu, Zhenxun Zhuang, and Yunwen Lei. In Neural Information Processing Systems 35, 2022. (NeurIPS 2022) <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/a7fa0a0d6b4bb14c659b9921e8e4a772-Abstract-Conference.html" target="_blank">(Proceeding)</a> <a href="https://arxiv.org/pdf/2205.05040.pdf" target="_blank">(arXiv)</a>
+
+# REU Project (Not for Publication):
+
+1. **Generating Public Health Responses using Survey-Augmented Large Language Models.** <br/>
+With L.Marciaga, T.Pham, J.Rezvani, A.Hyk, K.Mitsopoulos, R.Vardavas. <a href="https://arxiv.org/abs/2606.21820" target="_blank">(arXiv)</a>
+
 
 
 
